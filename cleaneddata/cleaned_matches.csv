@@ -1,50 +1,50 @@
-team1,team2,match_number,venue,city,toss_winner,toss_decision,player_of_match,umpire1,umpire2,reserve_umpire,match_referee,winner,winner_runs,winner_wickets,match_type,match_day,match_month,match_year
-Canada,United States of America,1,Grand Prairie Stadium,Dallas,United States of America,field,Aaron Jones,RK Illingworth,Sharfuddoula,L Rusere,RB Richardson,United States of America,,7.0,Group,1,6,2024
-Papua New Guinea,West Indies,2,Providence Stadium,Providence,West Indies,field,RL Chase,AT Holdstock,Rashid Riaz,HDPK Dharmasena,AJ Pycroft,West Indies,,5.0,Group,2,6,2024
-Sri Lanka,South Africa,4,Nassau County International Cricket Stadium,New York,Sri Lanka,bat,A Nortje,CM Brown,RA Kettleborough,AG Wharf,JJ Crowe,South Africa,,6.0,Group,3,6,2024
-Afghanistan,Uganda,5,Providence Stadium,Providence,Uganda,field,Fazalhaq Farooqi,Ahsan Raza,HDPK Dharmasena,Rashid Riaz,AJ Pycroft,Afghanistan,125.0,,Group,3,6,2024
-Nepal,Netherlands,7,Grand Prairie Stadium,Dallas,Netherlands,field,TJG Pringle,L Rusere,RJ Tucker,RK Illingworth,RB Richardson,Netherlands,,6.0,Group,4,6,2024
-Ireland,India,8,Nassau County International Cricket Stadium,New York,India,field,JJ Bumrah,AG Wharf,CB Gaffaney,CM Brown,DC Boon,India,,8.0,Group,5,6,2024
-Papua New Guinea,Uganda,9,Providence Stadium,Providence,Uganda,field,Riazat Ali Shah,AT Holdstock,Rashid Riaz,HDPK Dharmasena,J Srinath,Uganda,,3.0,Group,5,6,2024
-Australia,Oman,10,Kensington Oval,Bridgetown,Oman,field,MP Stoinis,Asif Yaqoob,JS Wilson,Nitin Menon,RS Madugalle,Australia,39.0,,Group,5,6,2024
-Namibia,Scotland,12,Kensington Oval,Bridgetown,Namibia,bat,MA Leask,J Madanagopal,Nitin Menon,JS Wilson,AJ Pycroft,Scotland,,5.0,Group,6,6,2024
-Canada,Ireland,13,Nassau County International Cricket Stadium,New York,Ireland,field,NR Kirton,RA Kettleborough,SJ Nogajski,CB Gaffaney,RB Richardson,Canada,12.0,,Group,7,6,2024
-Afghanistan,New Zealand,14,Providence Stadium,Providence,New Zealand,field,Rahmanullah Gurbaz,Ahsan Raza,HDPK Dharmasena,AT Holdstock,J Srinath,Afghanistan,84.0,,Group,7,6,2024
-Sri Lanka,Bangladesh,15,Grand Prairie Stadium,Dallas,Bangladesh,field,Rishad Hossain,MA Gough,PR Reiffel,RJ Tucker,JJ Crowe,Bangladesh,,2.0,Group,7,6,2024
-Netherlands,South Africa,16,Nassau County International Cricket Stadium,New York,South Africa,field,DA Miller,CB Gaffaney,Sharfuddoula,SJ Nogajski,DC Boon,South Africa,,4.0,Group,8,6,2024
-Australia,England,17,Kensington Oval,Bridgetown,England,field,A Zampa,JS Wilson,Nitin Menon,J Madanagopal,AJ Pycroft,Australia,36.0,,Group,8,6,2024
-West Indies,Uganda,18,Providence Stadium,Providence,West Indies,bat,AJ Hosein,HDPK Dharmasena,Rashid Riaz,Ahsan Raza,J Srinath,West Indies,134.0,,Group,8,6,2024
-India,Pakistan,19,Nassau County International Cricket Stadium,New York,Pakistan,field,JJ Bumrah,RK Illingworth,RJ Tucker,Sharfuddoula,DC Boon,India,6.0,,Group,9,6,2024
-Oman,Scotland,20,Sir Vivian Richards Stadium,North Sound,Oman,bat,BJ McMullen,A Paleker,CM Brown,AG Wharf,RB Richardson,Scotland,,7.0,Group,9,6,2024
-South Africa,Bangladesh,21,Nassau County International Cricket Stadium,New York,South Africa,bat,H Klaasen,RK Illingworth,SJ Nogajski,PR Reiffel,RS Madugalle,South Africa,4.0,,Group,10,6,2024
-Canada,Pakistan,22,Nassau County International Cricket Stadium,New York,Pakistan,field,Mohammad Amir,AT Holdstock,HDPK Dharmasena,PR Reiffel,RS Madugalle,Pakistan,,7.0,Group,11,6,2024
-Namibia,Australia,24,Sir Vivian Richards Stadium,North Sound,Australia,field,A Zampa,Nitin Menon,Rashid Riaz,A Paleker,J Srinath,Australia,,9.0,Group,11,6,2024
-United States of America,India,25,Nassau County International Cricket Stadium,New York,India,field,Arshdeep Singh,PR Reiffel,SJ Nogajski,AT Holdstock,RS Madugalle,India,,7.0,Group,12,6,2024
-West Indies,New Zealand,26,Brian Lara Stadium,Tarouba,New Zealand,field,SE Rutherford,Ahsan Raza,AG Wharf,MA Gough,DC Boon,West Indies,13.0,,Group,12,6,2024
-Bangladesh,Netherlands,27,Arnos Vale Ground,Kingstown,Netherlands,field,Shakib Al Hasan,CM Brown,J Madanagopal,JS Wilson,RB Richardson,Bangladesh,25.0,,Group,13,6,2024
-Oman,England,28,Sir Vivian Richards Stadium,North Sound,England,field,AU Rashid,Asif Yaqoob,L Rusere,Rashid Riaz,AJ Pycroft,England,,8.0,Group,13,6,2024
-Papua New Guinea,Afghanistan,29,Brian Lara Stadium,Tarouba,Afghanistan,field,Fazalhaq Farooqi,AG Wharf,MA Gough,Ahsan Raza,DC Boon,Afghanistan,,7.0,Group,13,6,2024
-South Africa,Nepal,31,Arnos Vale Ground,Kingstown,Nepal,field,T Shamsi,J Madanagopal,JS Wilson,SJ Nogajski,RB Richardson,South Africa,1.0,,Group,14,6,2024
-Uganda,New Zealand,32,Brian Lara Stadium,Tarouba,New Zealand,field,TG Southee,PR Reiffel,RK Illingworth,Ahsan Raza,DC Boon,New Zealand,,9.0,Group,14,6,2024
-England,Namibia,34,Sir Vivian Richards Stadium,North Sound,Namibia,field,HC Brook,AT Holdstock,L Rusere,Nitin Menon,RS Madugalle,England,41.0,,Group,15,6,2024
-Scotland,Australia,35,Daren Sammy National Cricket Stadium,Gros Islet,Australia,field,MP Stoinis,Asif Yaqoob,MA Gough,A Paleker,JJ Crowe,Australia,,5.0,Group,15,6,2024
-Ireland,Pakistan,36,Central Broward Regional Park Stadium Turf Ground,Lauderhill,Pakistan,field,Shaheen Shah Afridi,CB Gaffaney,RJ Tucker,RA Kettleborough,J Srinath,Pakistan,,3.0,Group,16,6,2024
-Bangladesh,Nepal,37,Arnos Vale Ground,Kingstown,Nepal,field,Tanzim Hasan Sakib,Ahsan Raza,SJ Nogajski,HDPK Dharmasena,RB Richardson,Bangladesh,21.0,,Group,16,6,2024
-Sri Lanka,Netherlands,38,Daren Sammy National Cricket Stadium,Gros Islet,Netherlands,field,KIC Asalanka,AG Wharf,A Paleker,Asif Yaqoob,JJ Crowe,Sri Lanka,83.0,,Group,16,6,2024
-Papua New Guinea,New Zealand,39,Brian Lara Stadium,Tarouba,New Zealand,field,LH Ferguson,L Rusere,PR Reiffel,RK Illingworth,DC Boon,New Zealand,,7.0,Group,17,6,2024
-West Indies,Afghanistan,40,Daren Sammy National Cricket Stadium,Gros Islet,Afghanistan,field,N Pooran,A Paleker,CM Brown,MA Gough,JJ Crowe,West Indies,104.0,,Group,17,6,2024
-South Africa,United States of America,41,Sir Vivian Richards Stadium,North Sound,United States of America,field,Q de Kock,CB Gaffaney,RA Kettleborough,L Rusere,RS Madugalle,South Africa,18.0,,Group,19,6,2024
-West Indies,England,42,Daren Sammy National Cricket Stadium,Gros Islet,England,field,PD Salt,Ahsan Raza,Nitin Menon,CM Brown,JJ Crowe,England,,8.0,Group,19,6,2024
-India,Afghanistan,43,Kensington Oval,Bridgetown,India,bat,SA Yadav,PR Reiffel,RJ Tucker,AG Wharf,DC Boon,India,47.0,,Group,20,6,2024
-Bangladesh,Australia,44,Sir Vivian Richards Stadium,North Sound,Australia,field,PJ Cummins,MA Gough,RK Illingworth,AT Holdstock,RB Richardson,Australia,28.0,,Group,20,6,2024
-South Africa,England,45,Daren Sammy National Cricket Stadium,Gros Islet,England,field,Q de Kock,CM Brown,Sharfuddoula,CB Gaffaney,JJ Crowe,South Africa,7.0,,Group,21,6,2024
-United States of America,West Indies,46,Kensington Oval,Bridgetown,West Indies,field,RL Chase,A Paleker,PR Reiffel,AG Wharf,DC Boon,West Indies,,9.0,Group,21,6,2024
-India,Bangladesh,47,Sir Vivian Richards Stadium,North Sound,Bangladesh,field,HH Pandya,AT Holdstock,MA Gough,RA Kettleborough,RS Madugalle,India,50.0,,Group,22,6,2024
-Afghanistan,Australia,48,Arnos Vale Ground,Kingstown,Australia,field,Gulbadin Naib,Ahsan Raza,HDPK Dharmasena,Nitin Menon,JJ Crowe,Afghanistan,21.0,,Group,22,6,2024
-United States of America,England,49,Kensington Oval,Bridgetown,England,field,AU Rashid,CB Gaffaney,JS Wilson,A Paleker,DC Boon,England,,10.0,Group,23,6,2024
-West Indies,South Africa,50,Sir Vivian Richards Stadium,North Sound,South Africa,field,T Shamsi,AG Wharf,RJ Tucker,Sharfuddoula,RS Madugalle,South Africa,,3.0,Group,23,6,2024
-India,Australia,51,Daren Sammy National Cricket Stadium,Gros Islet,Australia,field,RG Sharma,RK Illingworth,RA Kettleborough,HDPK Dharmasena,JJ Crowe,India,24.0,,Group,24,6,2024
-Afghanistan,Bangladesh,52,Arnos Vale Ground,Kingstown,Afghanistan,bat,Naveen-ul-Haq,L Rusere,Nitin Menon,Ahsan Raza,RB Richardson,Afghanistan,8.0,,Group,24,6,2024
-Afghanistan,South Africa,53,Brian Lara Stadium,Tarouba,Afghanistan,bat,M Jansen,Nitin Menon,RK Illingworth,Ahsan Raza,RB Richardson,South Africa,,9.0,Semi Final,26,6,2024
-India,England,54,Providence Stadium,Providence,England,field,AR Patel,CB Gaffaney,RJ Tucker,PR Reiffel,JJ Crowe,India,68.0,,Semi Final,27,6,2024
-India,South Africa,55,Kensington Oval,Bridgetown,India,bat,V Kohli,CB Gaffaney,RK Illingworth,RJ Tucker,RB Richardson,India,7.0,,Final,29,6,2024
+team1,team2,match_number,venue,city,toss_winner,toss_decision,player_of_match,winner,winner_runs,winner_wickets,match_type,match_day,match_month,match_year
+Canada,United States of America,1,Grand Prairie Stadium,Dallas,United States of America,field,Aaron Jones,United States of America,0,7,Group,1,6,2024
+Papua New Guinea,West Indies,2,Providence Stadium,Providence,West Indies,field,RL Chase,West Indies,0,5,Group,2,6,2024
+Sri Lanka,South Africa,4,Nassau County International Cricket Stadium,New York,Sri Lanka,bat,A Nortje,South Africa,0,6,Group,3,6,2024
+Afghanistan,Uganda,5,Providence Stadium,Providence,Uganda,field,Fazalhaq Farooqi,Afghanistan,125,0,Group,3,6,2024
+Nepal,Netherlands,7,Grand Prairie Stadium,Dallas,Netherlands,field,TJG Pringle,Netherlands,0,6,Group,4,6,2024
+Ireland,India,8,Nassau County International Cricket Stadium,New York,India,field,JJ Bumrah,India,0,8,Group,5,6,2024
+Papua New Guinea,Uganda,9,Providence Stadium,Providence,Uganda,field,Riazat Ali Shah,Uganda,0,3,Group,5,6,2024
+Australia,Oman,10,Kensington Oval,Bridgetown,Oman,field,MP Stoinis,Australia,39,0,Group,5,6,2024
+Namibia,Scotland,12,Kensington Oval,Bridgetown,Namibia,bat,MA Leask,Scotland,0,5,Group,6,6,2024
+Canada,Ireland,13,Nassau County International Cricket Stadium,New York,Ireland,field,NR Kirton,Canada,12,0,Group,7,6,2024
+Afghanistan,New Zealand,14,Providence Stadium,Providence,New Zealand,field,Rahmanullah Gurbaz,Afghanistan,84,0,Group,7,6,2024
+Sri Lanka,Bangladesh,15,Grand Prairie Stadium,Dallas,Bangladesh,field,Rishad Hossain,Bangladesh,0,2,Group,7,6,2024
+Netherlands,South Africa,16,Nassau County International Cricket Stadium,New York,South Africa,field,DA Miller,South Africa,0,4,Group,8,6,2024
+Australia,England,17,Kensington Oval,Bridgetown,England,field,A Zampa,Australia,36,0,Group,8,6,2024
+West Indies,Uganda,18,Providence Stadium,Providence,West Indies,bat,AJ Hosein,West Indies,134,0,Group,8,6,2024
+India,Pakistan,19,Nassau County International Cricket Stadium,New York,Pakistan,field,JJ Bumrah,India,6,0,Group,9,6,2024
+Oman,Scotland,20,Sir Vivian Richards Stadium,North Sound,Oman,bat,BJ McMullen,Scotland,0,7,Group,9,6,2024
+South Africa,Bangladesh,21,Nassau County International Cricket Stadium,New York,South Africa,bat,H Klaasen,South Africa,4,0,Group,10,6,2024
+Canada,Pakistan,22,Nassau County International Cricket Stadium,New York,Pakistan,field,Mohammad Amir,Pakistan,0,7,Group,11,6,2024
+Namibia,Australia,24,Sir Vivian Richards Stadium,North Sound,Australia,field,A Zampa,Australia,0,9,Group,11,6,2024
+United States of America,India,25,Nassau County International Cricket Stadium,New York,India,field,Arshdeep Singh,India,0,7,Group,12,6,2024
+West Indies,New Zealand,26,Brian Lara Stadium,Tarouba,New Zealand,field,SE Rutherford,West Indies,13,0,Group,12,6,2024
+Bangladesh,Netherlands,27,Arnos Vale Ground,Kingstown,Netherlands,field,Shakib Al Hasan,Bangladesh,25,0,Group,13,6,2024
+Oman,England,28,Sir Vivian Richards Stadium,North Sound,England,field,AU Rashid,England,0,8,Group,13,6,2024
+Papua New Guinea,Afghanistan,29,Brian Lara Stadium,Tarouba,Afghanistan,field,Fazalhaq Farooqi,Afghanistan,0,7,Group,13,6,2024
+South Africa,Nepal,31,Arnos Vale Ground,Kingstown,Nepal,field,T Shamsi,South Africa,1,0,Group,14,6,2024
+Uganda,New Zealand,32,Brian Lara Stadium,Tarouba,New Zealand,field,TG Southee,New Zealand,0,9,Group,14,6,2024
+England,Namibia,34,Sir Vivian Richards Stadium,North Sound,Namibia,field,HC Brook,England,41,0,Group,15,6,2024
+Scotland,Australia,35,Daren Sammy National Cricket Stadium,Gros Islet,Australia,field,MP Stoinis,Australia,0,5,Group,15,6,2024
+Ireland,Pakistan,36,Central Broward Regional Park Stadium Turf Ground,Lauderhill,Pakistan,field,Shaheen Shah Afridi,Pakistan,0,3,Group,16,6,2024
+Bangladesh,Nepal,37,Arnos Vale Ground,Kingstown,Nepal,field,Tanzim Hasan Sakib,Bangladesh,21,0,Group,16,6,2024
+Sri Lanka,Netherlands,38,Daren Sammy National Cricket Stadium,Gros Islet,Netherlands,field,KIC Asalanka,Sri Lanka,83,0,Group,16,6,2024
+Papua New Guinea,New Zealand,39,Brian Lara Stadium,Tarouba,New Zealand,field,LH Ferguson,New Zealand,0,7,Group,17,6,2024
+West Indies,Afghanistan,40,Daren Sammy National Cricket Stadium,Gros Islet,Afghanistan,field,N Pooran,West Indies,104,0,Group,17,6,2024
+South Africa,United States of America,41,Sir Vivian Richards Stadium,North Sound,United States of America,field,Q de Kock,South Africa,18,0,Group,19,6,2024
+West Indies,England,42,Daren Sammy National Cricket Stadium,Gros Islet,England,field,PD Salt,England,0,8,Group,19,6,2024
+India,Afghanistan,43,Kensington Oval,Bridgetown,India,bat,SA Yadav,India,47,0,Group,20,6,2024
+Bangladesh,Australia,44,Sir Vivian Richards Stadium,North Sound,Australia,field,PJ Cummins,Australia,28,0,Group,20,6,2024
+South Africa,England,45,Daren Sammy National Cricket Stadium,Gros Islet,England,field,Q de Kock,South Africa,7,0,Group,21,6,2024
+United States of America,West Indies,46,Kensington Oval,Bridgetown,West Indies,field,RL Chase,West Indies,0,9,Group,21,6,2024
+India,Bangladesh,47,Sir Vivian Richards Stadium,North Sound,Bangladesh,field,HH Pandya,India,50,0,Group,22,6,2024
+Afghanistan,Australia,48,Arnos Vale Ground,Kingstown,Australia,field,Gulbadin Naib,Afghanistan,21,0,Group,22,6,2024
+United States of America,England,49,Kensington Oval,Bridgetown,England,field,AU Rashid,England,0,10,Group,23,6,2024
+West Indies,South Africa,50,Sir Vivian Richards Stadium,North Sound,South Africa,field,T Shamsi,South Africa,0,3,Group,23,6,2024
+India,Australia,51,Daren Sammy National Cricket Stadium,Gros Islet,Australia,field,RG Sharma,India,24,0,Group,24,6,2024
+Afghanistan,Bangladesh,52,Arnos Vale Ground,Kingstown,Afghanistan,bat,Naveen-ul-Haq,Afghanistan,8,0,Group,24,6,2024
+Afghanistan,South Africa,53,Brian Lara Stadium,Tarouba,Afghanistan,bat,M Jansen,South Africa,0,9,Semi Final,26,6,2024
+India,England,54,Providence Stadium,Providence,England,field,AR Patel,India,68,0,Semi Final,27,6,2024
+India,South Africa,55,Kensington Oval,Bridgetown,India,bat,V Kohli,India,7,0,Final,29,6,2024
